@@ -39,3 +39,8 @@ footer {
   margin: 5px;
   background-color: #FCD3EC;
 }
+
+.setWidth {
+  flex-basis: 100px;
+  flex-grow: 1;
+}
